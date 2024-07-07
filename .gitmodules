@@ -1,0 +1,4 @@
+[submodule "QuantumComputationTools_private"]
+	path = QuantumComputationTools_private
+	url = https://github.com/EngrIbrahimAdnan/QuantumComputationTools_private.git
+	branch = main
